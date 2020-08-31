@@ -1,4 +1,4 @@
-#+TITLE: Resources
+#+TITLE: Index
 #+AUTHOR: Zhenkai Weng
 #+DATE: 2020-08-30
 #+BEGIN_OPTIONS
@@ -6,6 +6,7 @@
 #+STARTUP: overview
 #+HUGO_BASE_DIR: .
 #+HUGO_CUSTOM_FRONT_MATTER: :toc true
+#+HUGO_SECTION: wiki
 #+END_OPTIONS
 
 This wiki is maintained by Walnut High School English Spanish Partnership officer team.
@@ -16,8 +17,11 @@ This wiki is maintained by Walnut High School English Spanish Partnership office
 - Follow us on [[https://www.instagram.com/whsespclub/][Instagram]] to see Spanish tips and tricks on your feed!
 
 * Resources
-- Check out our [[https:///wiki][wiki]] (see sidebar); more tutorials in the making!
+- Check out our wiki (see sidebar); more tutorials in the making!
 - [[https://www.rae.es/][Real Academia Española (RAE)]]: Everything about the Spanish language. Powerful & comprehensive dictionary.
 - [[https://spanishdict.com][SpanishDict]]: Dictionary with a conjugation table for each verb. Great for beginners. You can install a mobile apps too.
 - [[https://studyspanish.com/][StudySpanish.com]]: free Spanish lessons
 - [[https://conjuguemos.com/][Conjuguemos]]: free conjugation practice
+
+* Index
+Work in progress

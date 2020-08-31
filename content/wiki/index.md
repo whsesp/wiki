@@ -1,5 +1,5 @@
 +++
-title = "Resources"
+title = "Index"
 author = ["Zhenkai Weng"]
 date = 2020-08-30
 draft = false
@@ -25,8 +25,13 @@ This wiki is maintained by Walnut High School English Spanish Partnership office
 
 ## Resources {#resources}
 
--   Check out our [wiki](https:///wiki) (see sidebar); more tutorials in the making!
+-   Check out our wiki (see sidebar); more tutorials in the making!
 -   [Real Academia Española (RAE)](https://www.rae.es/): Everything about the Spanish language. Powerful & comprehensive dictionary.
 -   [SpanishDict](https://spanishdict.com): Dictionary with a conjugation table for each verb. Great for beginners. You can install a mobile apps too.
 -   [StudySpanish.com](https://studyspanish.com/): free Spanish lessons
 -   [Conjuguemos](https://conjuguemos.com/): free conjugation practice
+
+
+## Index {#index}
+
+Work in progress
