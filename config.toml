@@ -1,0 +1,43 @@
+theme = "hugo-theme-codex"
+
+title = "English Spanish Partnership Wiki"
+languageCode = "en-us"
+baseURL = "https://whsesp.github.io/"
+copyright = "CC-BY-NC-SA 4.0 | WHS ESP {year}"
+
+[params]
+  dateFormat = "Jan 2, 2006"
+  github = "https://github.com/whsesp"
+  facebook = "https://www.facebook.com/groups/530100647719173"
+  instagram = "https://instagram.com/whsespclub"
+  iconTitles = ["Facebook", "Instagram", "GitHub"]
+
+[markup]
+  [markup.highlight]
+    codeFences = false
+  [markup.goldmark.renderer]
+      unsafe = true
+
+[[menu.main]]
+  identifier = "about"
+  name       = "about"
+  title      = "About"
+  url        = "/"
+
+[[manu.main]]
+  identifier = "resources"
+  name       = "resources"
+  title      = "Resources"
+  url        = "/wiki/resources"
+
+[[menu.main]]
+  identifier = "wiki"
+  name       = "wiki"
+  title      = "Wiki"
+  url        = "/wiki"
+
+[[menu.main]]
+  identifier = "tags"
+  name       = "tags"
+  title      = "Tags"
+  url        = "/tags"
