@@ -25,13 +25,20 @@ This wiki is maintained by Walnut High School English Spanish Partnership office
 
 ## Resources {#resources}
 
--   Check out our wiki (see sidebar); more tutorials in the making!
+-   Check out our wiki (see [Index](#index))
 -   [Real Academia Española (RAE)](https://www.rae.es/): Everything about the Spanish language. Powerful & comprehensive dictionary.
--   [SpanishDict](https://spanishdict.com): Dictionary with a conjugation table for each verb. Great for beginners. You can install a mobile apps too.
+-   [SpanishDict](https://spanishdict.com): Dictionary with a conjugation table for each verb. Great for beginners. There's a mobile app as well.
 -   [StudySpanish.com](https://studyspanish.com/): free Spanish lessons
 -   [Conjuguemos](https://conjuguemos.com/): free conjugation practice
 
 
 ## Index {#index}
 
-Work in progress
+The articles below progress linearly.
+
+| Category | Topic                                                             |
+|----------|-------------------------------------------------------------------|
+| Grammar  | [Introduction to Spanish]({{< relref "intro-esp" >}})             |
+| Usage    | Spanish Expressions I                                             |
+| Verbs    | [To be or not to be: Ser vs Estar]({{< relref "ser-vs-estar" >}}) |
+| Verbs    | Retelling the Past: Imperfect vs. Perfect                         |

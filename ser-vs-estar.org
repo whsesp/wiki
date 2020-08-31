@@ -1,0 +1,26 @@
+#+TITLE: To be or not to be: Ser vs. Estar
+#+AUTHOR: Zhenkai Weng
+#+DATE: 2020-08-30
+#+BEGIN_OPTIONS
+#+STARTUP: hideblocks
+#+STARTUP: overview
+#+HUGO_BASE_DIR: .
+#+HUGO_CUSTOM_FRONT_MATTER: :toc true
+#+HUGO_SECTION: wiki
+#+HUGO_TAGS: verb grammar
+#+END_OPTIONS
+
+/Ser/ and /estar/ are essential verbs in Spanish that mean /to be/ in English. However, they are not interchangeable in Spanish and have specific use cases. Let's take a look at these verbs in detail.
+
+* How to conjugate
+/Ser/ and /estar/ are both irregular verbs. Here's how you conjugate them in the present indicative tense.
+|                  | Ser   | Estar   |
+|------------------+-------+---------|
+| yo               | soy   | estoy   |
+| tú               | eres  | estás   |
+| él/ella/Ud.      | es    | está    |
+| nosotros         | somos | estamos |
+| vosotros         | sois  | estáis  |
+| ellos/ellas/Uds. | son   | están   |
+
+Note: Ud. = Usted, Uds. = Ustedes
