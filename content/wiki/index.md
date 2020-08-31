@@ -1,5 +1,5 @@
 +++
-title = "Index"
+title = "Spanish Wiki"
 author = ["Zhenkai Weng"]
 date = 2020-08-30
 draft = false

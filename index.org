@@ -1,4 +1,4 @@
-#+TITLE: Index
+#+TITLE: Spanish Wiki
 #+AUTHOR: Zhenkai Weng
 #+DATE: 2020-08-30
 #+BEGIN_OPTIONS
