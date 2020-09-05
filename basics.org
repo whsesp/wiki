@@ -37,7 +37,7 @@ Spanish uses the latin alphabet (a-z) plus some Spanish-only letters. Below is t
 - t: /la te/
 - u: /la u/ ("ooh" sound; see video)
 - v: /la uve/
-- w: /la uve doble/ (lit. double u)
+- w: /la uve doble/ (lit. double v)
 - x: /la equis/
 - y: /la i griega/ (lit. the Greek "i")
 - z: /la zeta/ (pronounced "s")
