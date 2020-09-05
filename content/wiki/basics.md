@@ -55,9 +55,6 @@ Spanish uses the latin alphabet (a-z) plus some Spanish-only letters. Below is t
 -   rr: _la erre doble_ / _doble erre_ (roll the r)
 
 
-### Strong & Weak vowels {#strong-and-weak-vowels}
-
-
 ## Stress & Accents {#stress-and-accents}
 
 Stressed syllables are pronounced slightly louder, a bit longer, and higher in pitch than other syllables, e.g. "a" in _dance_ and "u" in _butterfly_. In Spanish, the second-to-last syllable will be _stressed_ unless indicated otherwise by an accent (´), e.g. "i" in _la comida_ and "é" in _el teléfono_. If the word ends in a consonant (i.e. not any of a, e, i, o, u), then the last syllable is stressed unless the consonant is _n_ or _s_, e.g. "u" in _ayuda_, "e" in _carnet_, "ue" in _fueron_, and the last "i" in escribir.  
