@@ -14,7 +14,7 @@ This wiki is maintained by Walnut High School English Spanish Partnership office
 * Social Media
 - Join [[https://discord.gg/hEqk9s3][our Discord server]] to learn Spanish and socialize!
 - Join [[https://www.facebook.com/groups/530100647719173/][our Facebook group]] and Remind (code: =whsespinfo=) to keep track of important announcements and communicate with other members
-- Follow us on [[https://www.instagram.com/whsespclub/][Instagram]] to see Spanish tips and tricks on your feed!
+- Follow us on [[https://www.instagram.com/whsespclub/][Instagram]] (=@whsespclub=) to see Spanish tips and tricks on your feed!
 
 * Resources
 - Check out our wiki (see [[*Index][Index]])
@@ -24,10 +24,11 @@ This wiki is maintained by Walnut High School English Spanish Partnership office
 - [[https://conjuguemos.com/][Conjuguemos]]: free conjugation practice
 
 * Index
-The articles below progress linearly.
-| Category | Topic                                     |
-|----------+-------------------------------------------|
-| Grammar  | [[file:intro-esp.org][Introduction to Spanish]]                   |
-| Usage    | Spanish Expressions I                     |
-| Verbs    | [[file:ser-vs-estar.org][To be or not to be: Ser vs Estar]]          |
-| Verbs    | Retelling the Past: Imperfect vs. Perfect |
+The articles below progress linearly. Articles that are not linked are works in progress.
+| Category | Topic                                       |
+|----------+---------------------------------------------|
+| Meta     | Introduction to Spanish                     |
+| Grammar  | [[file:basics.org][Spanish Fundamentals]]                        |
+| Usage    | Spanish Expressions I                       |
+| Verbs    | To be or not to be: Ser vs Estar            |
+| Verbs    | [[file:imperfect-vs-preterite.org][Retelling the Past: Imperfect vs. Preterite]] |

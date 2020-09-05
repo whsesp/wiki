@@ -1,0 +1,201 @@
+#+TITLE: Retelling the Past: Imperfect vs. Preterite
+#+AUTHOR: Zhenkai Weng
+#+DATE: 2020-09-05
+#+BEGIN_OPTIONS
+#+STARTUP: hideblocks
+#+STARTUP: overview
+#+HUGO_BASE_DIR: .
+#+HUGO_CUSTOM_FRONT_MATTER: :toc true
+#+HUGO_SECTION: wiki
+#+HUGO_TAGS: verb grammar
+#+OPTIONS: \n:t
+#+END_OPTIONS
+
+
+Unlike English, Spanish has two types of past tenses, the imperfect and the preterite. Here's a detailed guide to both of these tenses.
+
+* Imperfect (el imperfecto)
+The imperfect is appropriate when the usage applies to a time /range/ in the past.
+** Imperfect Conjugation
+Remove the ending (-ar, -er, or -ir) to get the verb stem, then add the corresponding suffix.
+*** /-ar/ verbs
+| Subject          | /-ar/ ending |
+|------------------+------------|
+| yo               | -aba       |
+| tú               | -abas      |
+| él/ella/Ud.      | -aba       |
+| nosotros         | -ábamos    |
+| vosotros         | -abais     |
+| ellos/ellas/Uds. | -aban      |
+Note that there is an accent on the first /a/ for the /nosotros/ ending.
+*** /-er/, /-ir/ verbs (same endings)
+| Subject          | /-er/, /-ir/ ending |
+|------------------+-----------------|
+| yo               | -ía             |
+| tú               | -ías            |
+| él/ella/Ud.      | -ía             |
+| nosotros         | -íamos          |
+| vosotros         | -íais           |
+| ellos/ellas/Uds. | -ían            |
+
+*** Irregular verbs in imperfect
+**** ir (to go)
+| Subject          | Conjugation |
+|------------------+-------------|
+| yo               | iba         |
+| tú               | ibas        |
+| él/ella/Ud.      | iba         |
+| nosotros         | íbamos      |
+| vosotros         | íbais       |
+| ellos/ellas/Uds. | iban        |
+
+**** ver (to see)
+| Subject          | Conjugation |
+|------------------+-------------|
+| yo               | veía        |
+| tú               | veías       |
+| él/ella/Ud.      | veía        |
+| nosotros         | veíamos     |
+| vosotros         | veíais      |
+| ellos/ellas/Uds. | veían       |
+
+**** ser (to be)
+| Subject          | Conjugation |
+|------------------+-------------|
+| yo               | era         |
+| tú               | eras        |
+| él/ella/Ud.      | era         |
+| nosotros         | éramos      |
+| vosotros         | erais       |
+| ellos/ellas/Uds. | eran        |
+** Trigger words
+Frequency words are good indicators that you should be using the imperfect instead of the preterite for past tense. To list a few:
+- siempre
+- a veces
+- cada día / semana / mes / año / ...
+- normalmente
+- generalmente
+** When to use Imperfect
+Observe how the following usages of the imperfect tense do not have a well-defined time of termination.
+*** Description
+The speaker used the imperfect tense in the following examples because the description applies to time ranges (childhood & a visit) that had neither a clear-cut beginning nor end.
+#+BEGIN_QUOTE
+/Era/ bien educado de niño.
+I was well-behaved as a child.
+#+END_QUOTE
+#+BEGIN_QUOTE
+Ese lugar /era/ hermoso.
+That place was beautiful.
+#+END_QUOTE
+
+*** Simultaneous action (on-going, long duration)
+
+#+BEGIN_QUOTE
+Cuando /hacía/ mi tarea, también /escuchaba/ a música.
+When I do my homework, I also listen to music.
+#+END_QUOTE
+
+*** Recurring action ("used to") (habitual)
+#+BEGIN_QUOTE
+Todos los días /practicaba/ el saxofón después la escuela.
+I practice the saxophone after school every day.
+#+END_QUOTE
+*** Telling age (on-going year)
+#+BEGIN_QUOTE
+/Tenía/ 16 años cuando nos conocimos.
+I was 16 years old (imperfect) when we first met (preterite).
+#+END_QUOTE
+
+*** Telling time
+#+BEGIN_QUOTE
+/Eran/ seis y media por la noche.
+It was 6:30 PM.
+#+END_QUOTE
+
+*** On-going emotions
+
+#+BEGIN_QUOTE
+Entré el cuarto y me /sentía/ muy ansioso.
+I entered the room and I felt very anxious.
+#+END_QUOTE
+
+*** Setting the background when telling a story
+#+BEGIN_QUOTE
+/Había/ una vez una princesa que /vivía/ en un castillo.
+Once upon a time, there lived a princess in a castle.
+#+END_QUOTE
+
+*** Past Progressive
+#+BEGIN_QUOTE
+/Estaba/ cantando.
+I was singing
+#+END_QUOTE
+
+* Preterite (el pretérito)
+You should use the preterite when the action applies to only /one point/ in time.
+
+** Preterite Conjugation
+Remove the verb ending (/-ar/, /-er/, /-ir/), then add the corresponding suffix.
+*** /-ar/ verbs
+| Subject          | /-ar/ ending |
+|------------------+------------|
+| yo               | -é         |
+| tú               | -aste      |
+| él/ella/Ud.      | -ó         |
+| nosotros         | -amos      |
+| vosotros         | -asteis    |
+| ellos/ellas/Uds. | -aron      |
+And yes, the conjugation is the same under present tense and the imperfect tense for /nosotros/.
+*** /-er/, /-ir/ verbs (same endings)
+| Subject          | /-er/, /-ir/ ending |
+|------------------+-----------------|
+| yo               | -í              |
+| tú               | -iste           |
+| él/ella/Ud.      | -ió             |
+| nosotros         | -imos           |
+| vosotros         | -isteis         |
+| ellos/ellas/Uds. | -ieron          |
+** When to use Preterite
+Observe how the follow usages of the preterite are all simple events with a definite beginning and end.
+
+*** Beginning / end of action
+Keywords: empezer / comenzar / terminar / completer / ...
+#+BEGIN_QUOTE
+/Empezó/ a lavar mi coche.
+I began to wash my car.
+#+END_QUOTE
+
+*** An one-off, completed action
+#+BEGIN_QUOTE
+/Puso/ la servilleta en la mesa.
+He put the napkin on the table.
+#+END_QUOTE
+
+*** Summary of emotion
+#+BEGIN_QUOTE
+Simplemente me sentí tan airado.
+I simply felt so angry.
+#+END_QUOTE
+
+*** Interruption
+#+BEGIN_QUOTE
+Montaba en bici hacia la escuela. De repente, se me /pinchó/ un neumático.
+I biked (was biking) towards the school. Suddenly, I had a flat.
+#+END_QUOTE
+
+*** Series of completed events
+
+#+BEGIN_QUOTE
+Me levanté, me vestí, y arreglé mi dormitorio.
+I woke up, got dressed, then organized my bedroom.
+#+END_QUOTE
+
+* A comparison
+Some verbs like /saber/ and /querer/ have slightly different meanings if used in a different tense.
+** Saber
+- sabía: knew something
+- supo: /found out/
+** Querer
+- quería: loved (on-going emotion)
+- quiso: loved (short; terminated), wanted
+- no (lo) quiso: /refused/

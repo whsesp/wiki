@@ -20,7 +20,7 @@ This wiki is maintained by Walnut High School English Spanish Partnership office
 
 -   Join [our Discord server](https://discord.gg/hEqk9s3) to learn Spanish and socialize!
 -   Join [our Facebook group](https://www.facebook.com/groups/530100647719173/) and Remind (code: `whsespinfo`) to keep track of important announcements and communicate with other members
--   Follow us on [Instagram](https://www.instagram.com/whsespclub/) to see Spanish tips and tricks on your feed!
+-   Follow us on [Instagram](https://www.instagram.com/whsespclub/) (`@whsespclub`) to see Spanish tips and tricks on your feed!
 
 
 ## Resources {#resources}
@@ -34,11 +34,12 @@ This wiki is maintained by Walnut High School English Spanish Partnership office
 
 ## Index {#index}
 
-The articles below progress linearly.
+The articles below progress linearly. Articles that are not linked are works in progress.
 
-| Category | Topic                                                             |
-|----------|-------------------------------------------------------------------|
-| Grammar  | [Introduction to Spanish]({{< relref "intro-esp" >}})             |
-| Usage    | Spanish Expressions I                                             |
-| Verbs    | [To be or not to be: Ser vs Estar]({{< relref "ser-vs-estar" >}}) |
-| Verbs    | Retelling the Past: Imperfect vs. Perfect                         |
+| Category | Topic                                                                                  |
+|----------|----------------------------------------------------------------------------------------|
+| Meta     | Introduction to Spanish                                                                |
+| Grammar  | [Spanish Fundamentals]({{< relref "basics" >}})                                        |
+| Usage    | Spanish Expressions I                                                                  |
+| Verbs    | To be or not to be: Ser vs Estar                                                       |
+| Verbs    | [Retelling the Past: Imperfect vs. Preterite]({{< relref "imperfect-vs-preterite" >}}) |
