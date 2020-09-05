@@ -1,0 +1,9 @@
+#+TITLE: WHS ESP Spanish Wiki
+#+AUTHOR: Zhenkai Weng
+#+DATE: 2020-09-05
+#+BEGIN_OPTIONS
+#+STARTUP: hideblocks
+#+STARTUP: overview
+#+END_OPTIONS
+
+This repository stores the =.org= files used to generate the [[https://whsesp.github.io/][actual wiki]].
