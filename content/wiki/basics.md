@@ -69,7 +69,7 @@ Spanish nouns have gender. Usually, nouns ending in -o are masculine, like _nach
 
 ## Article {#article}
 
-The word "the" in Spanish has two forms: _el_ and _la_. The former is used with masculine nouns (e.g. _el profesor_), and the latter on feminine nouns (e.g. _la profesora_). However, when the word begins with a stressed "a" sound, you use _el_ instead of _la_ on singular feminine nouns (e.g. _el agua_ instead of _la agua_; _las aguas_ stay the same).  
+The word "the" in Spanish has two forms: _el_ and _la_. The former is used with masculine nouns (e.g. _el profesor_), and the latter on feminine nouns (e.g. _la profesora_). However, when the word begins with a _stressed_ "a" sound, you use _el_ instead of _la_ on singular feminine nouns (e.g. _el agua_ instead of _la agua_; _las aguas_ stay the same; _la amiga_ does not change).  
 
 
 ## Subject Pronouns {#subject-pronouns}

@@ -53,7 +53,7 @@ To pronounce Spanish correctly, you also need to know the difference between str
 * Gender
 Spanish nouns have gender. Usually, nouns ending in -o are masculine, like /nacho/, and words ending in -a are feminine like /agua/. This is a general pattern and you will see many exceptions to it. Other patterns will emerge as you learn more Spanish. Be mindful of this pattern as you go.
 * Article
-The word "the" in Spanish has two forms: /el/ and /la/. The former is used with masculine nouns (e.g. /el profesor/), and the latter on feminine nouns (e.g. /la profesora/). However, when the word begins with a stressed "a" sound, you use /el/ instead of /la/ on singular feminine nouns (e.g. /el agua/ instead of /la agua/; /las aguas/ stay the same).
+The word "the" in Spanish has two forms: /el/ and /la/. The former is used with masculine nouns (e.g. /el profesor/), and the latter on feminine nouns (e.g. /la profesora/). However, when the word begins with a /stressed/ "a" sound, you use /el/ instead of /la/ on singular feminine nouns (e.g. /el agua/ instead of /la agua/; /las aguas/ stay the same; /la amiga/ does not change).
 * Subject Pronouns
 Instead of nouns, you can use /subject pronouns/ as the subject of an action. For example, you can say /He ate the apple/ instead of /The trainee ate the apple/. Here is a list of pronouns in Spanish.
 

@@ -36,10 +36,10 @@ This wiki is maintained by Walnut High School English Spanish Partnership office
 
 The articles below progress linearly. Articles that are not linked are works in progress.
 
-| Category | Topic                                                                                  |
-|----------|----------------------------------------------------------------------------------------|
-| Meta     | Introduction to Spanish                                                                |
-| Grammar  | [Spanish Fundamentals]({{< relref "basics" >}})                                        |
-| Usage    | Spanish Expressions I                                                                  |
-| Verbs    | To be or not to be: Ser vs Estar                                                       |
-| Verbs    | [Retelling the Past: Imperfect vs. Preterite]({{< relref "imperfect-vs-preterite" >}}) |
+| Category |   | Topic                                                                                  |
+|----------|---|----------------------------------------------------------------------------------------|
+| Meta     | 1 | [Introduction to Spanish]({{< relref "intro-to-spanish" >}})                           |
+| Grammar  | 1 | [Spanish Fundamentals]({{< relref "basics" >}})                                        |
+| Usage    | 1 | Spanish Expressions I                                                                  |
+| Verbs    | 1 | To be or not to be: Ser vs Estar                                                       |
+| Verbs    | 2 | [Retelling the Past: Imperfect vs. Preterite]({{< relref "imperfect-vs-preterite" >}}) |
