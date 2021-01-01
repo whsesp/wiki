@@ -10,7 +10,7 @@
 #+END_OPTIONS
 
 * Introduction
-Hello, welcome to English Spanish Partnership's Spanish wiki. [[file:wiki-index.org][Here]] you can find a series of tutorials on the Spanish language and occasionally on Hispanic culture.
+Hello, welcome to English Spanish Partnership's Spanish wiki. [[file:wiki.org][Here]] you can find a series of tutorials on the Spanish language and occasionally on Hispanic culture.
 
 * Why learn Spanish?
 - Spanish is the fourth most spoken language in the world.

@@ -16,7 +16,7 @@ toc = true
 
 ## Introduction {#introduction}
 
-Hello, welcome to English Spanish Partnership's Spanish wiki. [Here]({{< relref "wiki-index" >}}) you can find a series of tutorials on the Spanish language and occasionally on Hispanic culture.  
+Hello, welcome to English Spanish Partnership's Spanish wiki. [Here]({{< relref "wiki" >}}) you can find a series of tutorials on the Spanish language and occasionally on Hispanic culture.  
 
 
 ## Why learn Spanish? {#why-learn-spanish}

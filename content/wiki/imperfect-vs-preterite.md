@@ -7,7 +7,7 @@ draft = false
 toc = true
 +++
 
-<div class="OPTIONS">
+<div class="options">
   <div></div>
 
 
@@ -239,19 +239,14 @@ Keywords: empezer / comenzar / terminar / completer / ...
 > I woke up, got dressed, then organized my bedroom.  
 
 
-## A comparison {#a-comparison}
+## A Comparison {#a-comparison}
 
 Some verbs like _saber_ and _querer_ have slightly different meanings if used in a different tense.  
 
-
-### Saber {#saber}
-
--   sabía: knew something
--   supo: _found out_
-
-
-### Querer {#querer}
-
--   quería: loved (on-going emotion)
--   quiso: loved (short; terminated), wanted
--   no (lo) quiso: _refused_
+-   Saber  
+    -   sabía: knew something
+    -   supo: _found out_
+-   Querer  
+    -   quería: loved (on-going emotion)
+    -   quiso: loved (short; terminated), wanted
+    -   no (lo) quiso: _refused_

@@ -27,7 +27,7 @@ copyright    = "CC-BY-NC-SA 4.0 | WHS ESP {year}"
   identifier = "index"
   name       = "index"
   title      = "Index"
-  url        = "/wiki-index"
+  url        = "/wiki/wiki"
 
 [[menu.main]]
   identifier = "wiki"

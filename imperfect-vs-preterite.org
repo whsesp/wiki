@@ -1,16 +1,13 @@
-#+TITLE: Retelling the Past: Imperfect vs. Preterite
-#+AUTHOR: Zhenkai Weng
-#+DATE: 2020-09-05
-#+BEGIN_OPTIONS
-#+STARTUP: hideblocks
-#+STARTUP: overview
-#+HUGO_BASE_DIR: .
-#+HUGO_CUSTOM_FRONT_MATTER: :toc true
-#+HUGO_SECTION: wiki
-#+HUGO_TAGS: verb grammar
-#+OPTIONS: \n:t
-#+END_OPTIONS
-
+#+title: Retelling the Past: Imperfect vs. Preterite
+#+author: Zhenkai Weng
+#+date: 2020-09-05
+#+begin_options
+#+hugo_base_dir: .
+#+hugo_custom_front_matter: :toc true
+#+hugo_section: wiki
+#+hugo_tags: verb grammar
+#+options: \n:t
+#+end_options
 
 Unlike English, Spanish has two types of past tenses, the imperfect and the preterite. Here's a detailed guide to both of these tenses.
 
@@ -190,12 +187,12 @@ Me levanté, me vestí, y arreglé mi dormitorio.
 I woke up, got dressed, then organized my bedroom.
 #+END_QUOTE
 
-* A comparison
+* A Comparison
 Some verbs like /saber/ and /querer/ have slightly different meanings if used in a different tense.
-** Saber
-- sabía: knew something
-- supo: /found out/
-** Querer
-- quería: loved (on-going emotion)
-- quiso: loved (short; terminated), wanted
-- no (lo) quiso: /refused/
+- Saber
+  + sabía: knew something
+  + supo: /found out/
+- Querer
+  + quería: loved (on-going emotion)
+  + quiso: loved (short; terminated), wanted
+  + no (lo) quiso: /refused/

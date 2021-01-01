@@ -1,0 +1,6 @@
+#+startup: hideblocks overview inlineimages
+#+hugo_base_dir: .
+#+hugo_custom_front_matter: :toc true
+#+hugo_section: wiki
+#+options: \n:t
+#+property: DIR /home/oak/re/dev/espwiki/static/images/

@@ -1,13 +1,7 @@
-#+TITLE: Spanish Wiki
-#+AUTHOR: Zhenkai Weng
-#+DATE: 2020-08-30
-#+BEGIN_OPTIONS
-#+STARTUP: hideblocks
-#+STARTUP: overview
-#+HUGO_BASE_DIR: .
-#+HUGO_CUSTOM_FRONT_MATTER: :toc true
-#+HUGO_SECTION: .
-#+END_OPTIONS
+#+title: Spanish Wiki
+#+author: Zhenkai Weng
+#+date: 2020-08-30
+#+setupfile: ./setup.org
 
 This wiki is maintained by Walnut High School English Spanish Partnership officer team.
 
@@ -25,10 +19,12 @@ This wiki is maintained by Walnut High School English Spanish Partnership office
 
 * Index
 The articles below progress linearly. Articles that are not linked are works in progress.
-| Category |   | Topic                                       |
-|----------+---+---------------------------------------------|
-| Meta     | 1 | [[file:intro-to-spanish.org][Introduction to Spanish]]                     |
-| Grammar  | 1 | [[file:basics.org][Spanish Fundamentals]]                        |
-| Usage    | 1 | Spanish Expressions I                       |
-| Verbs    | 1 | To be or not to be: Ser vs Estar            |
-| Verbs    | 2 | [[file:imperfect-vs-preterite.org][Retelling the Past: Imperfect vs. Preterite]] |
+| Category   |      | Topic                                       |
+|------------+------+---------------------------------------------|
+| Meta       |    1 | [[file:intro-to-spanish.org][Introduction to Spanish]]                     |
+| Grammar    |    1 | [[file:basics.org][Spanish Fundamentals]]                        |
+| Vocabulary |    1 | Common Expressions                          |
+| Meta       |    1 | [[file:anki.org][Spaced Repetition & Anki]]                    |
+| Verbs      |    1 | To be or not to be: Ser vs Estar            |
+| Verbs      |    2 | [[file:imperfect-vs-preterite.org][Retelling the Past: Imperfect vs. Preterite]] |
+| Verbs      | 1, 2 | [[file:imperative.org][Commands (Imperative Mood)]]                  |
